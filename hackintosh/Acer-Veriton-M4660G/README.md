@@ -31,7 +31,7 @@ Download OC folder: \[[ OC.zip ](http://onedev135.github.io/files/hackintosh/Ace
 
 ☑️Sleep
 
-❌Bluetooth
+❌Bluetooth (dongle)
 
 ❌Audio jack input
 
